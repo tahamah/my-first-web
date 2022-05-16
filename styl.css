@@ -1,0 +1,28 @@
+table {
+    border: 20px solid green;
+    width: 1250px;
+
+    font-size: 100px;
+    text-align: center;
+    padding: 5px;
+}
+.asdfg {
+    font-size: 100px;
+    background: -webkit-linear-gradient(red, green);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.lkj {
+    font-size: 100px;
+    background: -webkit-linear-gradient(yellow, red, blue);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.bkhk {
+    font-size: 100px;
+    background: -webkit-linear-gradient(green, yellow);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/* <th colspan="4"height="80" width="1199px"><center> <meta><big> <font size="500px"color="green">বাংলা খবরের কাগজ  </big></meta></center></th> */
